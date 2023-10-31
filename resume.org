@@ -1,0 +1,58 @@
+#+TITLE: Resume
+#+OPTIONS: date:nil html-postamble:nil toc:nil
+* About me 
+- Name: Drishal Ballaney
+- GitHub: https://github.com/drishal
+- GitLab: https://gitlab.com/drishal
+- LinkedIn: https://www.linkedin.com/in/drishal-ballaney/
+- email: drishalballaney@gmail.com
+
+* Vision – To make things happen
+To effectively utilize the gained skills and meaningfully contribute to the growth of an organization by taking on responsibilities and relentlessly pursuing the organization objectives.
+
+* Career Objective & Brief Introduction
+To grow as a Cyber Security professional with an organization that promotes learning, growth and needs a highly motivated and skilled professional.
+
+* Academic / Technical Qualifications
+1. Attending Fourth Year BE(CSc) at Chitkara University, Punjab (2020-present, 7th semester).
+2. Class 12, CBSE : 75%
+3. Class 10, CBSE : 87.2%
+
+* Certifications
+1. Currently pursuring 16 weeks DIAT(Defence Institute of Armament Technology, DRDO) Cybersecurity Course (June 2023 batch).
+2. Cybersecurity Essentials, Cisco (August 2023).
+3. Red Hat System Administration (RH124) Certificate of Attendance (July 2022).
+4. Full Ethical Hacking & Penetration Testing Course (April 2023).
+5. Introduction to Cybersecurity, Cisco (April 2023).
+6. Online Ethical Cyber Hacking Certification, 25 hours (February 2022) (Homeflic Wegrow/EC Council)
+
+* Skills
+1. Programming languages: Python(intermediate expertise), Nix, Bash and C.
+2. Operating systems: Linux (Ubuntu, Debian, Arch, Fedora, NixOS and more).
+3. Databases: MySQL.
+4. Cybersecurity: Ethical hacking, penetration testing.
+5. Version control: Git.
+6. Some experience in building Android ROMs (was a maintainer of AICP and Lighthouse OS for Mi 11x).
+7. Basic Networking Skills, experience in using git
+
+* Achievements
+1. SOF, National Cyber Olympiad, Jan 2019 : International Rank-43, Zonal Rank-3.
+2. SOF, National Cyber Olympiad, Jan 2018 :   International Rank-17, Zonal Rank-2, Awarded Silver Medal.
+3. SOF, International English Olympiad, Oct 2018 : Awarded Bronze Medal- School level.
+4. Awarded a special prize for undertaking additional responsibilities in the School Computer lab for managing the systems and solving software issues.
+
+* Projects
+1. Discussion forum using Django.
+2. ERP college project using Python with the Tkinter toolkit and MySQL to display student information.
+3. GUI interface for MySQL tables using Python with the Tkinter toolkit and MySQL.
+4. ToDo App with django and react.
+5. Simple chat app using Express.
+
+* Areas of Interest and Further Growth
+1. Penetration Testing, Digital & Cyber Forensics, Vulnerability analysis and the field of Cyber Security.
+2. SOC analyst
+3. Linux Administrator
+4. DevOps.
+
+
+
