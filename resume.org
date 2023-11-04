@@ -49,7 +49,7 @@ To grow as a Cyber Security professional with an organization that promotes lear
 5. Simple chat app using Express.
 
 * Areas of Interest and Further Growth
-1. Penetration Testing, Digital & Cyber Forensics, Vulnerability analysis and the field of Cyber Security.
+1. Penetration Testing,  Vulnerability analysis and the field of Cyber Security.
 2. SOC analyst
 3. Linux Administrator
 4. DevOps.
