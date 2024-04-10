@@ -19,7 +19,7 @@ To grow as a Cyber Security professional with an organization that promotes lear
 3. Class 10, CBSE : 87.2%
 
 * Certifications
-1. Currently pursuring 16 weeks DIAT(Defence Institute of Armament Technology, DRDO) Cybersecurity Course (June 2023 batch).
+1. DIAT Certified Information Assurance Professional Certificate
 2. Cybersecurity Essentials, Cisco (August 2023).
 3. Red Hat System Administration (RH124) Certificate of Attendance (July 2022).
 4. Full Ethical Hacking & Penetration Testing Course (April 2023).
@@ -27,13 +27,13 @@ To grow as a Cyber Security professional with an organization that promotes lear
 6. Online Ethical Cyber Hacking Certification, 25 hours (February 2022) (Homeflic Wegrow/EC Council)
 
 * Skills
-1. Programming languages: Python(intermediate expertise), Nix, Bash and C.
+1. Programming languages: Rust, Python, Nix, Bash.
 2. Operating systems: Linux (Ubuntu, Debian, Arch, Fedora, NixOS and more).
 3. Databases: MySQL.
 4. Cybersecurity: Ethical hacking, penetration testing.
 5. Version control: Git.
-6. Some experience in building Android ROMs (was a maintainer of AICP and Lighthouse OS for Mi 11x).
-7. Basic Networking Skills, experience in using git
+6. Some experience in building Android ROMs
+7. Basic Networking Skills
 
 * Achievements
 1. SOF, National Cyber Olympiad, Jan 2019 : International Rank-43, Zonal Rank-3.
@@ -53,6 +53,3 @@ To grow as a Cyber Security professional with an organization that promotes lear
 2. SOC analyst
 3. Linux Administrator
 4. DevOps.
-
-
-
